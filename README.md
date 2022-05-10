@@ -1,9 +1,9 @@
 # Etherium Token Recommender
 
-When using Etherium, users hold a unique wallet, within each wallet the user holds tokens that seem attractive to the user.
+When using Ethereum, users hold a unique wallet, within each wallet the user holds tokens that seem attractive to the user.
 
 ## Project Goal
-Generate top 5 relevant tokens based on collobrative filtering from the Etherium Blockchain Genesis.
+Generate top 5 relevant tokens based on collaborative filtering from the Ethereum Blockchain Genesis.
 
 ## Tools
 1. PySpark
